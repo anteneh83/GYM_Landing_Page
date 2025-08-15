@@ -4,6 +4,11 @@ A modern and responsive **Gym Landing Page** built with **React.js**.
 This project showcases a clean and interactive UI for a fitness or gym website, featuring multiple sections like header, features, offers, about, contact, and footer.
 
 ---
+## Demo
+You can view a live demo of the landing page 
+https://gym-landing-page-kyim.vercel.app/
+
+---
 # Screenshots
 
 <img width="1315" height="580" alt="image" src="https://github.com/user-attachments/assets/125ac33b-9eb2-45a8-b44a-6eaf0f7d0350" />
