@@ -5,7 +5,10 @@ This project showcases a clean and interactive UI for a fitness or gym website, 
 
 ---
 # Screenshots
+
 <img width="1315" height="580" alt="image" src="https://github.com/user-attachments/assets/125ac33b-9eb2-45a8-b44a-6eaf0f7d0350" />
+
+<img width="1279" height="595" alt="image" src="https://github.com/user-attachments/assets/eb5712a2-fd3b-4263-bec1-72d117fec271" />
 
 
 ## ⚡ Features
